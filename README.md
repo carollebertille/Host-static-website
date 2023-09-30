@@ -27,8 +27,6 @@ The objective of this project is to host a secure static school information
 #### Infrastructure Diagram
 
 
-![infra](https://user-images.githubusercontent.com/58267422/81116041-004f9980-8f25-11ea-985b-349da4d1097c.png)
-
 
 
 ### Choice and description of tools
