@@ -5,7 +5,7 @@
 
 ## Project 
 
-### The context
+
                 
 The objective of this project is to host a secure static school information 
 
@@ -16,14 +16,6 @@ The objective of this project is to host a secure static school information
 - Amazon Route 53
 - AWS Certificate Manager
 - Freenom
-
-### Infrastructure
-
-
-#### Infrastructure Diagram
-
-
-
 
 ### Choice and description of tools
 
@@ -39,7 +31,7 @@ The objective of this project is to host a secure static school information
   + Route53 is a managed DNS service from AWS.
   + ACM is Amazon Certificate manager that provides SSL/TLS certificate
 
-+ [medium.com-portfolio-host secure static website](https://medium.com/@carollematchum/host-a-secure-static-website-608c9b8603f0 "medium.com-portfolio-host secure static website")
+ [medium.com-portfolio-host secure static website](https://medium.com/@carollematchum/host-a-secure-static-website-608c9b8603f0 "medium.com-portfolio-host secure static website")
 
     
   
